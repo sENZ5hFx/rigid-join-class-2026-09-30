@@ -1,0 +1,16 @@
+{
+  "session_id": "2026-09-30-rjc",
+  "timestamp": "2026-09-30T13:40:00-04:00",
+  "iso_utc": "2026-09-30T17:40:00Z",
+  "author": "Haley Bird (Fishers, IN) / autonomous Grok research agent",
+  "github_user": "sENZ5hFx",
+  "primary_insight": "Rigid-Join Class: the residual lives in the constitutive law of an already-named interface treated as rigid. This week Nature solved it at the ICB (viscous peak-year shift 2010 to 2000). The open primary is the galaxy-IGM join treated as a still-pristine reservoir after metals were already cycling at 500 Myr.",
+  "capability_gap_identified": "No archive-aware tool distinguishes join-absence, hidden bulk DOF, two-clock disagreement, omitted intervals, and a named interface whose constitutive law is treated as rigid.",
+  "sha256_rjc_result": "83321bc484c1cde835a7f463f2f727540a1ee5de5c92766f44efcda41db62878",
+  "class_void": false,
+  "open_primary_score": 66.16,
+  "exemplar_score": 93.82,
+  "soc_primary_score": 51.97,
+  "github_target": "sENZ5hFx/rigid-join-class-2026-09-30",
+  "notion_parent": "397ed6aaf8ff424ebcb151edee916f90"
+}
