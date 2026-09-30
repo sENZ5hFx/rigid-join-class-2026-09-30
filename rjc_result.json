@@ -1,0 +1,21 @@
+{
+  "session_id": "2026-09-30-rjc",
+  "timestamp": "2026-09-30T13:40:00-04:00",
+  "class_name": "Rigid-Join Class (RJC)",
+  "class_void": false,
+  "sha256": "83321bc484c1cde835a7f463f2f727540a1ee5de5c92766f44efcda41db62878",
+  "solved_exemplar": {"id": "lod_viscous_icb", "score": 93.82, "source": "Nature 23 Sep 2026 doi:10.1038/s41586-026-10999-2", "peak_shift": "rigid ICB ~2010 to viscous ICB ~2000", "swing_deg": 2.35},
+  "open_primary": {"id": "igm_metal_mixing_join", "score": 66.16, "realm": "space", "source": "Zhu et al. Nature Astronomy 24 Sep 2026"},
+  "open_ranking": [
+    {"rank": 1, "score": 66.16, "id": "igm_metal_mixing_join"},
+    {"rank": 2, "score": 36.23, "id": "psiDM_jeans_interface", "status": "UNPROVED"},
+    {"rank": 3, "score": 33.88, "id": "rhizosphere_carbon_join"},
+    {"rank": 4, "score": 30.49, "id": "warming_mycorrhiza_overwrite"},
+    {"rank": 5, "score": 15.35, "id": "cmb_reversal_constitutive", "framed_by": "NCR"},
+    {"rank": 6, "score": 12.47, "id": "pigeon_liver_macrophage", "framed_by": "CMC"},
+    {"rank": 7, "score": 8.68, "id": "europa_ice_ocean"},
+    {"rank": 8, "score": 1.02, "id": "anesthesia_network_join"}
+  ],
+  "soc_iterate": {"primary": {"id": "pop3_pristine_overwrite", "score": 51.97}, "control_anesthesia": 0.0},
+  "controls_max": 0.0
+}
